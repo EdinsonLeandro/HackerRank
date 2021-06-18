@@ -2,4 +2,6 @@ Project Euler is a series of challenging mathematical/computer programming probl
 
 https://projecteuler.net/
 
+https://www.hackerrank.com/contests/projecteuler/challenges
+
 Repository under construction
