@@ -3,7 +3,11 @@ HackerRank is a place where programmers from all over the world come together to
 
 In this repository, you can find a detailed explanation of my solutions to some of the challenges proposed in this site. Eventhough in [HackerRank](https://www.hackerrank.com/) you can use different languages, such as: C, Java, C#, R, C++, JavaScript, Python, etc., I chose Python 3 to solve all the exercises that you will find here.
 
-![Screenshot](screenshot.png)
+
+<p align="center">
+  <img src="images/python-logo.png" width="350" title="Python Logo">
+</p>
+
 
 ## Skills
 In the next table are listed the skills that I have . 
