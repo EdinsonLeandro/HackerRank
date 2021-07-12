@@ -1,4 +1,8 @@
 # HackerRank
  Solving programming challenges
 
-Repository under construction
+| Specialized  Skills  | Description  |
+|:--------------------:|:---------------:|
+| Artificial-Intelligence      | some wordy text |
+| col 2 is      | centered        |
+| zebra stripes | are neat        |
