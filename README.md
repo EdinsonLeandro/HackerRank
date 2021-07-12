@@ -13,7 +13,7 @@ In this repository, you can find a detailed explanation of my solutions to some 
 
 
 ## Skills
-The following table lists the skills I have practiced in HackerRank.
+In the following table, you can see the sort of the challenges that I have solved so far in HackerRank.
 
 | Specialized  Skills  | Description  |
 |:--------------------:|:---------------:|
