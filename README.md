@@ -8,17 +8,18 @@ In this repository, you can find a detailed explanation of my solutions to some 
 
 
 <p align="center">
-  <img src="images/NumPy.png" width="100" title="Numpy">
-  <img src="images/python.png" width="100" title="Python Logo">
-  <img src="images/scikit-learn.png" width="100" title="Scikit-learn">
+  <img src="images/3-images.png" width="450" title="Scikit-learn">
 </p>
 
 
 ## Skills
-In the next table are listed the skills that I have . 
+The following table lists the skills I have practiced in HackerRank.
 
 | Specialized  Skills  | Description  |
 |:--------------------:|:---------------:|
-| [Artificial-Intelligence](https://github.com/EdinsonLeandro/HackerRank/tree/main/Artificial-Intelligence)      | some wordy text |
-| [Mathematics](https://github.com/EdinsonLeandro/HackerRank/tree/main/Mathematics)      | centered        |
-| [Project-Euler](https://github.com/EdinsonLeandro/HackerRank/tree/main/Project-Euler) | are neat        |
+| [Artificial-Intelligence](https://github.com/EdinsonLeandro/HackerRank/tree/main/Artificial-Intelligence) | Different topics such as: Statistics and Machine Learning, Probability & Statistics - Foundations. |
+| [Mathematics](https://github.com/EdinsonLeandro/HackerRank/tree/main/Mathematics)                         | Fundamentals. |
+| [Project-Euler](https://github.com/EdinsonLeandro/HackerRank/tree/main/Project-Euler)                     | Project Euler challenges with hidden test cases and time limit.        |
+
+## Profile
+[Here](https://www.hackerrank.com/edinson_leandro) you can see my profile on HackerRank.
