@@ -3,6 +3,6 @@
 
 | Specialized  Skills  | Description  |
 |:--------------------:|:---------------:|
-| Artificial-Intelligence      | some wordy text |
-| col 2 is      | centered        |
-| zebra stripes | are neat        |
+| [Artificial-Intelligence](https://github.com/EdinsonLeandro/HackerRank/tree/main/Artificial-Intelligence)      | some wordy text |
+| [Mathematics](https://github.com/EdinsonLeandro/HackerRank/tree/main/Mathematics)      | centered        |
+| [Project-Euler](https://github.com/EdinsonLeandro/HackerRank/tree/main/Project-Euler) | are neat        |
