@@ -4,7 +4,7 @@
 
 HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
 
-In this repository, you can find a detailed explanation of my solutions to some of the challenges proposed in this site. Eventhough in [HackerRank](https://www.hackerrank.com/) you can use different languages, such as: C, Java, C#, R, C++, JavaScript, Python, etc., I chose Python 3 to solve all the exercises that you will find here.
+In this repository, you can find a detailed explanation of my solutions to some of the challenges proposed in this site. Furthermore, in some cases you may also find different approaches to the same challenge. Eventhough in [HackerRank](https://www.hackerrank.com/) you can use different languages, such as: C, Java, C#, R, C++, JavaScript, Python, etc., I chose Python 3 to solve all the exercises that you will find here.
 
 
 <p align="center">
@@ -17,7 +17,7 @@ In the following table, you can see the sort of the challenges that I have solve
 
 | Specialized  Skills  | Description  |
 |:--------------------:|:---------------:|
-| [Artificial-Intelligence](https://github.com/EdinsonLeandro/HackerRank/tree/main/Artificial-Intelligence) | Different topics such as: Statistics and Machine Learning, Probability & Statistics - Foundations. |
+| [Artificial-Intelligence](https://github.com/EdinsonLeandro/HackerRank/tree/main/Artificial-Intelligence) | Statistics and Machine Learning. |
 | [Mathematics](https://github.com/EdinsonLeandro/HackerRank/tree/main/Mathematics)                         | Fundamentals. |
 | [Project-Euler](https://github.com/EdinsonLeandro/HackerRank/tree/main/Project-Euler)                     | Project Euler challenges with hidden test cases and time limit.        |
 
