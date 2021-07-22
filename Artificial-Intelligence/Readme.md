@@ -15,7 +15,7 @@ Here, you can find a detailed explanation of my optimal solutions to challenges 
 | [Correlation and Regression Lines - A Quick Recap #3](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Artificial-Intelligence/Statistics-and-ML/Correlation-and-Regression-Lines_A-Quick-Recap%233.ipynb) | Probability values from linear regression. |
 | [Correlation and Regression Lines - A Quick Recap #4](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Artificial-Intelligence/Statistics-and-ML/Correlation-and-Regression-Lines_A-Quick-Recap%234.ipynb) |  Two regression lines of a bivariate distribution. |
 | [Correlation and Regression Lines - A Quick Recap #5](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Artificial-Intelligence/Statistics-and-ML/Correlation-and-Regression-Lines_A-Quick-Recap%235.ipynb) | Two regression lines of a bivariate distribution.  |
-
+| [Polynomial Regression: Office Prices](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Artificial-Intelligence/Statistics-and-ML/Polynomial-Regression_Office-Prices.ipynb) | Target is a polynomial function of the features.  |
 
 ## Statistics foundation
 
