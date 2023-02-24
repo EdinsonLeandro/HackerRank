@@ -19,7 +19,7 @@ In this repository, you will find basic, intermediate and advance exercises.
 
 ## Fundamentals
 
-| Area  | Brief Description  |
+| Area  | Levels  |
 |:--------------------:|:---------------:|
-| [Algorithms]([https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Mathematics/Fundamentals/Best-divisor.ipynb](https://github.com/EdinsonLeandro/HackerRank/tree/main/Problem-Solving/Algorithms)) | Basic - Intermediate - Advance. |
-| [Data Structure]([https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Mathematics/Fundamentals/Diwali-ligths.ipynb](https://github.com/EdinsonLeandro/HackerRank/tree/main/Problem-Solving/Data-Structure)) | Basic - Intermediate - Advance. |
+| [Algorithms](https://github.com/EdinsonLeandro/HackerRank/tree/main/Problem-Solving/Algorithms) | Basic - Intermediate - Advance. |
+| [Data Structure](https://github.com/EdinsonLeandro/HackerRank/tree/main/Problem-Solving/Data-Structure) | Basic - Intermediate - Advance. |
