@@ -18,8 +18,10 @@ In the following table, you can see the sort of the challenges that I have solve
 | Specialized  Skills  | Description  |
 |:--------------------:|:---------------:|
 | [Artificial-Intelligence](https://github.com/EdinsonLeandro/HackerRank/tree/main/Artificial-Intelligence) | Statistics and Machine Learning. |
-| [Mathematics](https://github.com/EdinsonLeandro/HackerRank/tree/main/Mathematics)                         | Fundamentals. |
-| [Project-Euler](https://github.com/EdinsonLeandro/HackerRank/tree/main/Project-Euler)                     | Project Euler challenges with hidden test cases and time limit.        |
+| [Mathematics](https://github.com/EdinsonLeandro/HackerRank/tree/main/Mathematics) | Fundamentals. |
+| Python | Intermediate and Advance |
+| [Problem Solving](https://github.com/EdinsonLeandro/HackerRank/tree/main/Problem-Solving) | Algorithms and Data Structures. |
+| [Project-Euler](https://github.com/EdinsonLeandro/HackerRank/tree/main/Project-Euler) | Project Euler challenges with hidden test cases and time limit. |
 
 ## Profile
 [Here](https://www.hackerrank.com/edinson_leandro) you can see my profile on HackerRank.
