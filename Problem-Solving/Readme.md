@@ -19,7 +19,7 @@ In this repository, you will find basic, intermediate and advance exercises.
 
 ## Algorithms
 | Challenges | Level |
-|:--------:|:--------:|:--------:|
+|:--------:|:--------:|
 | [Apple and Oranges](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Algorithms/Apple-and-Oranges.ipynb) | Basic |
 | [Between two sets](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Algorithms/Between-two-sets.ipynb) | Basic |
 | [Number line jumps](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Algorithms/Number-line-jumps.ipynb) | Basic |
