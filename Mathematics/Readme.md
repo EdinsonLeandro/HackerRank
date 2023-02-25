@@ -16,7 +16,7 @@ In the following sections, you will find solved exercises of each subdomains.
 ## Fundamentals
 
 | Challenges  | Brief Description  | Level |
-|:--------------------:|:---------------:|
+|:--------------------:|:---------------:|:---------------:|
 | [Best divisor](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Mathematics/Fundamentals/Best-divisor.ipynb) | Find the divisor of a number. | Easy |
 | [Find the point](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Mathematics/Fundamentals/Find-the-Point.ipynb) |  Inversion or point reflection. | Easy |
 | [Diwali ligths](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Mathematics/Fundamentals/Diwali-ligths.ipynb) | Find the pattern of elements. | Medium |
