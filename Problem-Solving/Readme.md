@@ -17,9 +17,11 @@ At HackerRank, this competency area includes:
 
 In this repository, you will find basic, intermediate and advance exercises.
 
-## Fundamentals
+## Algorithms
+| Challenges | Brief Description | Levels  |
+|:--------:|:--------:|
+| [Apple and Oranges](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Algorithms/Apple-and-Oranges.ipynb) | Basic |
+| [Between two sets](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Algorithms/Between-two-sets.ipynb) | Basic |
+| [Number line jumps](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Algorithms/Number-line-jumps.ipynb) | Basic |
 
-| Area  | Levels  |
-|:--------------------:|:---------------:|
-| [Algorithms](https://github.com/EdinsonLeandro/HackerRank/tree/main/Problem-Solving/Algorithms) | Basic - Intermediate - Advance. |
-| [Data Structure](https://github.com/EdinsonLeandro/HackerRank/tree/main/Problem-Solving/Data-Structure) | Basic - Intermediate - Advance. |
+## Data Structure
