@@ -20,4 +20,4 @@ In the following sections, you will find solved exercises of each subdomains.
 | [Best divisor](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Mathematics/Fundamentals/Best-divisor.ipynb) | Find the divisor of a number. | Easy |
 | [Find the point](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Mathematics/Fundamentals/Find-the-Point.ipynb) |  Inversion or point reflection. | Easy |
 | [Diwali ligths](https://nbviewer.jupyter.org/github/EdinsonLeandro/HackerRank/blob/main/Mathematics/Fundamentals/Diwali-ligths.ipynb) | Find the pattern of elements. | Medium |
-| Summing the N series | Sum a sequence of numbers. | Medium |
+| [Summing the N series](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Mathematics/Fundamentals/Summing-the-N-series.ipynb) | Sum a sequence of numbers. | Medium |
