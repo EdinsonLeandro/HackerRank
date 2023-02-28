@@ -15,7 +15,7 @@ At HackerRank, this competency area includes:
     - Data Structures. Trees, Graph Traversal. Find the shortest paths, diameter, etc. Use trees such as binary search effectively.
     - Algorithms: Dynamic Programming and Specialized Algorithms. Knowledge of efficient string search algorithms such as Rabin-Karp and Knuth-Morris-Pratt. Efficient graph search algorithms such as Dijkstra’s algorithm. Create complex or multi-dimensional dynamic programming models.
 
-In this repository, you will find basic, intermediate and advance exercises.
+In this repository, you will find basic, medium and hard exercises.
 
 ## Algorithms
 | Challenges | Level |
