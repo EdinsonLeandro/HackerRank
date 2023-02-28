@@ -1,8 +1,10 @@
 # Python
 
-| Challenges  | Subdomain  | Level |
-|:-----:|:-----:|:----:|
-| Finding the percentage | Basic data types | Easy |
-| Lists | Basic data types | Easy |
-| List comprehensions | Basic data types | Easy |
-| Nested lists | Basic data types | Easy |
+## Basic data types
+
+| Challenges | Level |
+|:-----:|:-----:|
+| Finding the percentage | Easy |
+| Lists | Easy |
+| List comprehensions | Easy |
+| Nested lists | Easy |
