@@ -27,8 +27,9 @@ In this repository, you will find basic, intermediate and advance exercises.
 ## Data Structure
 | Challenges | Level |
 |:--------:|:--------:|
-| [2D_Array-DS](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/2D_Array-DS.ipynb) | Basic |
-| [Dynamic-Array](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Dynamic-Array.ipynb) | Basic |
-| [Left-Rotation](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Left-Rotation.ipynb) | Basic |
-| [Sparse-Arrays](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Sparse-Arrays.ipynb) | Medium |
+| [2D Array DS](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/2D_Array-DS.ipynb) | Basic |
+| [Dynamic Array](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Dynamic-Array.ipynb) | Basic |
+| [Left Rotation](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Left-Rotation.ipynb) | Basic |
+| [Sparse Arrays](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Sparse-Arrays.ipynb) | Medium |
+| Arrays Manipulation | Hard |
 
