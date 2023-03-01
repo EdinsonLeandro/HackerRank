@@ -31,5 +31,5 @@ In this repository, you will find basic, medium and hard exercises.
 | [Dynamic Array](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Dynamic-Array.ipynb) | Basic |
 | [Left Rotation](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Left-Rotation.ipynb) | Basic |
 | [Sparse Arrays](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Sparse-Arrays.ipynb) | Medium |
-| Arrays Manipulation | Hard |
+| [Arrays Manipulation](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Problem-Solving/Data-Structure/Array-Manipulation.ipynb) | Hard |
 
