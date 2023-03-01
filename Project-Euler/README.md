@@ -15,5 +15,5 @@ HackerRank provides an environment for solving these challenges. Here's a [list]
 
 | Challenges  | Brief Description  | Level |
 |:-----:|:-----:|:----:|
-| Multiples of 3 and 5 | Find the sum of all the multiples of 3 or 5 below N. | Easy |
-| Even Fibonacci numbers | Find the sum of the even-valued terms of Fibonnacci sequence| Easy |
+| [Multiples of 3 and 5](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Project-Euler/Easy/1_Multiples-of-3-and-5.ipynb) | Find the sum of all the multiples of 3 or 5 below N. | Easy |
+| [Even Fibonacci numbers](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Project-Euler/Easy/2_Even-Fibonacci-numbers.ipynb) | Find the sum of the even-valued terms of Fibonnacci sequence| Easy |
