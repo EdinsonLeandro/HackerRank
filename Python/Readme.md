@@ -27,7 +27,7 @@
 | [itertools.permutations()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Itertools/itertools.permutations%28%29.ipynb) | Easy |
 | [itertools.combinations()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Itertools/itertools.combinations%28%29.ipynb) | Easy |
 
-## Buil-Ins
+## Built-Ins
 | Challenges | Level |
 |:-----:|:-----:|
 | [Zipped!](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Built-Ins/Zipped.ipynb) | Easy |
