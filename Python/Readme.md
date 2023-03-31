@@ -8,6 +8,12 @@
 | [Lists](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Basic_Data_Types/Lists.ipynb) | Easy |
 | [Nested lists](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Basic_Data_Types/Nested-Lists.ipynb) | Easy |
 
+
+
+
+
+
+
 ## Strings
 | Challenges | Level |
 |:-----:|:-----:|
