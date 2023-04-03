@@ -23,15 +23,15 @@
 ## Itertools
 | Challenges | Level |
 |:-----:|:-----:|
-| [itertools.product()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Itertools/itertools.product%28%29.ipynb) | Easy |
-| [itertools.permutations()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Itertools/itertools.permutations%28%29.ipynb) | Easy |
-| [itertools.combinations()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Itertools/itertools.combinations%28%29.ipynb) | Easy |
+| [itertools.product()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Itertools/itertools.product.ipynb) | Easy |
+| [itertools.permutations()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Itertools/itertools.permutations.ipynb) | Easy |
+| [itertools.combinations()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Itertools/itertools.combinations.ipynb) | Easy |
 
 ## Built-Ins
 | Challenges | Level |
 |:-----:|:-----:|
 | [Zipped!](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Built-Ins/Zipped.ipynb) | Easy |
-| [Input()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Built-Ins/Input%28%29.ipynb) | Easy |
+| [Input()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Built-Ins/Input.ipynb) | Easy |
 | [Athlete Sort](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Built-Ins/Athlete-Sort.ipynb) | Medium |
 | [Any or All](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Built-Ins/Any-or-All.ipynb) | Easy |
 | [ginortS](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Built-Ins/ginortS.ipynb) | Medium |
@@ -40,10 +40,10 @@
 | Challenges | Level |
 |:-----:|:-----:|
 | [Detect Floating Point Number](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Detect-Floating-Point-Number.ipynb) | Easy |
-| [Re.split()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Re.split%28%29.ipynb) | Easy |
-| [Group(), Groups() & Groupdict()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Group%28%29-Groups%28%29-Groupdict%28%29.ipynb) | Easy |
-| [Re.findall() & Re.finditer()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Re.findall%28%29-%26-Re.finditer%28%29.ipynb) | Easy |
-| [Re.start() & Re.end()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Re.start%28%29-%26-Re.end%28%29.ipynb) | Easy |
+| [Re.split()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Re.split.ipynb) | Easy |
+| [Group(), Groups() & Groupdict()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Group-Groups-Groupdict.ipynb) | Easy |
+| [Re.findall() & Re.finditer()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Re.findall-%26-Re.finditer.ipynb) | Easy |
+| [Re.start() & Re.end()](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Re.start-%26-Re.end.ipynb) | Easy |
 | [Regex-Substitution](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Regex-Substitution.ipynb) | Medium |
 | [Validating Roman Numerals](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Validating-Roman-Numerals.ipynb) | Easy |
 | [Validating phone numbers](https://nbviewer.org/github/EdinsonLeandro/HackerRank/blob/main/Python/Regex_and_Parsing/Validating-phone-numbers.ipynb) | Easy |
